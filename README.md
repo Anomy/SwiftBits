@@ -4,9 +4,9 @@ A place to keep my bits of Swift code that are helpful
 
 
 
-# UI Bits
+## UI Bits
 
-Border: 
+#### Border: 
 ```swift
 someView.layer.borderWidth = 1
 someView.layer.borderColor = UIColor.redColor().CGColor
